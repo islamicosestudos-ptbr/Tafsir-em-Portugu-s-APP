@@ -1,0 +1,6 @@
+{
+  "name": "Alcorão Sagrado & Tafsir",
+  "description": "Alcorão com traduções em português e Tafsir versículo a versículo.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
